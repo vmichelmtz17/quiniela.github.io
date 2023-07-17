@@ -1,16 +1,17 @@
+/* Estilos para la tabla */
 table {
     border-collapse: collapse;
-}
-
-table, th, td {
+    width: 100%;
+  }
+  
+  /* Estilos para las celdas de encabezado (th) y celdas de datos (td) */
+  th, td {
     border: 1px solid black;
-}
-
-th, td {
     padding: 8px;
-}
-
-.text-center {
+  }
+  
+  /* Estilos para centrar el contenido en las celdas */
+  .text-center {
     text-align: center;
   }
   
